@@ -1,0 +1,4 @@
+pages\GoogleSearchResultPage.class
+pages\GoogleSearchPage.class
+steps\GoogleSearchSteps.class
+runners\GoogleSearchRunner.class
